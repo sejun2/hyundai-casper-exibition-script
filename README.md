@@ -4,7 +4,7 @@
 
 ## Prerequisites
 Python 설치
-https://https://www.python.org/
+https://www.python.org/
 
 ## 설치
 
