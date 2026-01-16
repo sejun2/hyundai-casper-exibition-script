@@ -2,6 +2,10 @@
 
 현대 캐스퍼 재고 확인 스크립트
 
+## Prerequisites
+Python 설치
+https://https://www.python.org/
+
 ## 설치
 
 ```bash
